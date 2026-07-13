@@ -159,9 +159,10 @@ https://opti-crop-omega.vercel.app
 
  👩‍💻 Author
 
-**Modhini Anupoju**
+**Peddehapu Niharika**
 
 GitHub:
+https://github.com/Niharika-20-star/Opticrop_project.git
 
 
 ⭐ Future Enhancements
