@@ -162,7 +162,7 @@ https://opti-crop-omega.vercel.app
 **Modhini Anupoju**
 
 GitHub:
-https://github.com/Modinianupoju
+
 
 ⭐ Future Enhancements
 
